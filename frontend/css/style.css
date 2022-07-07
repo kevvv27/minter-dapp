@@ -51,6 +51,7 @@ header {
 
 header .container {
   flex-direction: row;
+  max-width: 960px;
   justify-content: space-between;
   align-items: center;
 }
